@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "weather-shenzhen": {
+      "command": "uv",
+      "args": ["run", "mcp-weather"],
+      "cwd": "/Users/wangchunyang/PycharmProjects/study_mcp_weather",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
