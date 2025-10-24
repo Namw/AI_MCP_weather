@@ -85,7 +85,7 @@ mcp-inspector "uv" "run" "mcp-weather"
     "weather": {
       "command": "uv",
       "args": ["run", "mcp-weather"],
-      "cwd": "/Users/wangchunyang/PycharmProjects/study_mcp_weather"
+      "cwd": "/Users/youname/PycharmProjects/study_mcp_weather"
     }
   }
 }
